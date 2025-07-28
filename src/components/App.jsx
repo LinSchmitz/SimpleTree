@@ -1,12 +1,12 @@
 import React from 'react';
 
-import ShahnamehTree from './ShahnamehTree';
+import SimpleTree from './SimpleTree';
 
 function App() {
   return (
     <div className="App">
-      <h1>شجره‌نامه شاهنامه</h1>
-      <ShahnamehTree />
+      <h1>family tree</h1>
+      <SimpleTree />
     </div>
   );
 }
