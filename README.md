@@ -97,6 +97,5 @@ src/
 - [More Templates](https://balkangraph.com/OrgChartJS-Tutorials/Templates)
 - [Customization Guide](https://balkangraph.com/OrgChartJS-Demos/FamilyTree)
 
-```
 
 ````
