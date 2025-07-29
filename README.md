@@ -1,8 +1,3 @@
-Here's your corrected and cleaned-up `README.md`, with **fixed links**, **formatting**, and minor tweaks for clarity:
-
----
-
-````markdown
 # 👨‍👩‍👧‍👦 React Family Chart Integration
 
 A simple React component that renders a Family Chart using [BalkanGraph's FamilyTree.js](https://balkangraph.com/OrgChartJS-Demos/FamilyTree). This example shows a minimal family tree with two parents and their children.
@@ -24,6 +19,7 @@ A simple React component that renders a Family Chart using [BalkanGraph's Family
    git clone https://github.com/LinSchmitz/react-family-chart.git
    cd react-family-chart
    ```
+
 ````
 
 2. Install dependencies:
@@ -114,3 +110,4 @@ src/
 ### 📷 Preview
 
 ![alt text](public/img/tree.jpg)
+````
