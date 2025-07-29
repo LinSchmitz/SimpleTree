@@ -10,6 +10,7 @@ A simple React component that renders a **Family Chart** using [BalkanGraph's Fa
 ## 📸 Preview
 
 ![Screenshot](./public/img/tree.jpg)
+public/img/tree.jpg
 
 ## 🧰 Tech Stack
 
