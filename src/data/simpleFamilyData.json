@@ -2,23 +2,27 @@
   {
     "id": 1,
     "pids": [2],
-    "name": "parent 1"
+    "name": "parent 1",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg"
   },
   {
     "id": 2,
     "pids": [1],
-    "name": "parent 2"
+    "name": "parent 2",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg"
   },
   {
     "id": 3,
-    "mid": 2,
     "fid": 1,
-    "name": "first child"
+    "mid": 2,
+    "name": "first child",
+    "photo": "https://randomuser.me/api/portraits/men/3.jpg"
   },
   {
     "id": 4,
-    "mid": 2,
     "fid": 1,
-    "name": "second child"
+    "mid": 2,
+    "name": "second child",
+    "photo": "https://randomuser.me/api/portraits/women/4.jpg"
   }
 ]
