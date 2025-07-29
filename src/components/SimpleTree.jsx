@@ -13,10 +13,10 @@ export default function SimpleTree() {
         field_0: 'name',
       },
       nodes: [
-        { id: 1, pids: [2], name: 'پدر' },
-        { id: 2, pids: [1], name: 'مادر' },
-        { id: 3, fid: 1, mid: 2, name: 'فرزند اول' },
-        { id: 4, fid: 1, mid: 2, name: 'فرزند دوم' },
+        { id: 1, pids: [2], name: 'parent 1' },
+        { id: 2, pids: [1], name: 'parent 2' },
+        { id: 3, fid: 1, mid: 2, name: 'first child' },
+        { id: 4, fid: 1, mid: 2, name: 'second child' },
       ],
     });
 
@@ -25,7 +25,7 @@ export default function SimpleTree() {
         try {
           treeInstance.current.destroy();
         } catch (err) {
-          console.warn('خطا هنگام destroy:', err);
+          console.warn('destroy error:', err);
         }
       }
     };

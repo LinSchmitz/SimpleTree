@@ -2,23 +2,23 @@
   {
     "id": 1,
     "pids": [2],
-    "name": "پدر"
+    "name": "parent 1"
   },
   {
     "id": 2,
     "pids": [1],
-    "name": "مادر"
+    "name": "parent 2"
   },
   {
     "id": 3,
     "mid": 2,
     "fid": 1,
-    "name": "فرزند اول"
+    "name": "first child"
   },
   {
     "id": 4,
     "mid": 2,
     "fid": 1,
-    "name": "فرزند دوم"
+    "name": "second child"
   }
 ]
