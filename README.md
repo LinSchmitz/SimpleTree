@@ -84,10 +84,10 @@ src/
 │ └── SimpleFamilyData.json # Tree node data in JSON format
 
 ```
+
 ### 🙋‍♂️ Author
 
-Lin Schmitz
-[GitHub](https://github.com/LinSchmitz)
+[Lin Schmitz GitHub](https://github.com/LinSchmitz)
 
 ---
 
