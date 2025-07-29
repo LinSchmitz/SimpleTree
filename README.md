@@ -7,10 +7,6 @@ Here's your corrected and cleaned-up `README.md`, with **fixed links**, **format
 
 A simple React component that renders a Family Chart using [BalkanGraph's FamilyTree.js](https://balkangraph.com/OrgChartJS-Demos/FamilyTree). This example shows a minimal family tree with two parents and their children.
 
-## 📸 Preview
-
-![alt text](public/img/tree.jpg)
-
 ## 🧰 Tech Stack
 
 - React (Hooks + Functional Components)
@@ -114,3 +110,7 @@ src/
 
 
 ```
+
+### 📷 Preview
+
+![alt text](public/img/tree.jpg)
