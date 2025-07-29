@@ -100,7 +100,7 @@ src/
 ## 🙋‍♂️ Author
 
 **Lin Schmitz**
-🔗 [GitHub @LinSchmitz](https://github.com/LinSchmitz)
+🔗 [GitHub](https://github.com/LinSchmitz)
 
 ---
 
